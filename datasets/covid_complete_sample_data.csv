@@ -1,0 +1,107 @@
+﻿Province/State,Country/Region,Lat,Long,Date,Confirmed,Deaths,Recovered,Active,WHO Region
+,Afghanistan,33.93911,67.709953,22-01-2020,0,0,0,0,Eastern Mediterranean
+,Albania,41.1533,20.1683,22-01-2020,0,0,0,0,Europe
+,Algeria,28.0339,1.6596,22-01-2020,0,0,0,0,Africa
+,Andorra,42.5063,1.5218,22-01-2020,0,0,0,0,Europe
+,Angola,-11.2027,17.8739,22-01-2020,0,0,0,0,Africa
+,Antigua and Barbuda,17.0608,-61.7964,22-01-2020,0,0,0,0,Americas
+,Argentina,-38.4161,-63.6167,22-01-2020,0,0,0,0,Americas
+,Armenia,40.0691,45.0382,22-01-2020,0,0,0,0,Europe
+Australian Capital Territory,Australia,-35.4735,149.0124,22-01-2020,0,0,0,0,Western Pacific
+New South Wales,Australia,-33.8688,151.2093,22-01-2020,0,0,0,0,Western Pacific
+Northern Territory,Australia,-12.4634,130.8456,22-01-2020,0,0,0,0,Western Pacific
+Queensland,Australia,-27.4698,153.0251,22-01-2020,0,0,0,0,Western Pacific
+South Australia,Australia,-34.9285,138.6007,22-01-2020,0,0,0,0,Western Pacific
+Tasmania,Australia,-42.8821,147.3272,22-01-2020,0,0,0,0,Western Pacific
+Victoria,Australia,-37.8136,144.9631,22-01-2020,0,0,0,0,Western Pacific
+Western Australia,Australia,-31.9505,115.8605,22-01-2020,0,0,0,0,Western Pacific
+,Austria,47.5162,14.5501,22-01-2020,0,0,0,0,Europe
+,Azerbaijan,40.1431,47.5769,22-01-2020,0,0,0,0,Europe
+,Bahamas,25.025885,-78.035889,22-01-2020,0,0,0,0,Americas
+,Bahrain,26.0275,50.55,22-01-2020,0,0,0,0,Eastern Mediterranean
+,Bangladesh,23.685,90.3563,22-01-2020,0,0,0,0,South-East Asia
+,Barbados,13.1939,-59.5432,22-01-2020,0,0,0,0,Americas
+,Belarus,53.7098,27.9534,22-01-2020,0,0,0,0,Europe
+,Belgium,50.8333,4.469936,22-01-2020,0,0,0,0,Europe
+,Benin,9.3077,2.3158,22-01-2020,0,0,0,0,Africa
+,Bhutan,27.5142,90.4336,22-01-2020,0,0,0,0,South-East Asia
+,Bolivia,-16.2902,-63.5887,22-01-2020,0,0,0,0,Americas
+,Bosnia and Herzegovina,43.9159,17.6791,22-01-2020,0,0,0,0,Europe
+,Brazil,-14.235,-51.9253,22-01-2020,0,0,0,0,Americas
+,Brunei,4.5353,114.7277,22-01-2020,0,0,0,0,Western Pacific
+,Bulgaria,42.7339,25.4858,22-01-2020,0,0,0,0,Europe
+,Burkina Faso,12.2383,-1.5616,22-01-2020,0,0,0,0,Africa
+,Cabo Verde,16.5388,-23.0418,22-01-2020,0,0,0,0,Africa
+,Cambodia,11.55,104.9167,22-01-2020,0,0,0,0,Western Pacific
+,Cameroon,3.848,11.5021,22-01-2020,0,0,0,0,Africa
+Alberta,Canada,53.9333,-116.5765,22-01-2020,0,0,0,0,Americas
+British Columbia,Canada,53.7267,-127.6476,22-01-2020,0,0,0,0,Americas
+Manitoba,Canada,53.7609,-98.8139,22-01-2020,0,0,0,0,Americas
+New Brunswick,Canada,46.5653,-66.4619,22-01-2020,0,0,0,0,Americas
+Newfoundland and Labrador,Canada,53.1355,-57.6604,22-01-2020,0,0,0,0,Americas
+Nova Scotia,Canada,44.682,-63.7443,22-01-2020,0,0,0,0,Americas
+Ontario,Canada,51.2538,-85.3232,22-01-2020,0,0,0,0,Americas
+Prince Edward Island,Canada,46.5107,-63.4168,22-01-2020,0,0,0,0,Americas
+Quebec,Canada,52.9399,-73.5491,22-01-2020,0,0,0,0,Americas
+Saskatchewan,Canada,52.9399,-106.4509,22-01-2020,0,0,0,0,Americas
+,Central African Republic,6.6111,20.9394,22-01-2020,0,0,0,0,Africa
+,Chad,15.4542,18.7322,22-01-2020,0,0,0,0,Africa
+,Chile,-35.6751,-71.543,22-01-2020,0,0,0,0,Americas
+Anhui,China,31.8257,117.2264,22-01-2020,1,0,0,1,Western Pacific
+Beijing,China,40.1824,116.4142,22-01-2020,14,0,0,14,Western Pacific
+Chongqing,China,30.0572,107.874,22-01-2020,6,0,0,6,Western Pacific
+Fujian,China,26.0789,117.9874,22-01-2020,1,0,0,1,Western Pacific
+Gansu,China,35.7518,104.2861,22-01-2020,0,0,0,0,Western Pacific
+Guangdong,China,23.3417,113.4244,22-01-2020,26,0,0,26,Western Pacific
+Guangxi,China,23.8298,108.7881,22-01-2020,2,0,0,2,Western Pacific
+Guizhou,China,26.8154,106.8748,22-01-2020,1,0,0,1,Western Pacific
+Hainan,China,19.1959,109.7453,22-01-2020,4,0,0,4,Western Pacific
+Hebei,China,39.549,116.1306,22-01-2020,1,0,0,1,Western Pacific
+Heilongjiang,China,47.862,127.7615,22-01-2020,0,0,0,0,Western Pacific
+Henan,China,37.8957,114.9042,22-01-2020,5,0,0,5,Western Pacific
+Hong Kong,China,22.3,114.2,22-01-2020,0,0,0,0,Western Pacific
+Hubei,China,30.9756,112.2707,22-01-2020,444,17,28,399,Western Pacific
+Hunan,China,27.6104,111.7088,22-01-2020,4,0,0,4,Western Pacific
+Inner Mongolia,China,44.0935,113.9448,22-01-2020,0,0,0,0,Western Pacific
+Jiangsu,China,32.9711,119.455,22-01-2020,1,0,0,1,Western Pacific
+Jiangxi,China,27.614,115.7221,22-01-2020,2,0,0,2,Western Pacific
+Jilin,China,43.6661,126.1923,22-01-2020,0,0,0,0,Western Pacific
+Liaoning,China,41.2956,122.6085,22-01-2020,2,0,0,2,Western Pacific
+Macau,China,22.1667,113.55,22-01-2020,1,0,0,1,Western Pacific
+Ningxia,China,37.2692,106.1655,22-01-2020,1,0,0,1,Western Pacific
+Qinghai,China,35.7452,95.9956,22-01-2020,0,0,0,0,Western Pacific
+Shaanxi,China,35.1917,108.8701,22-01-2020,0,0,0,0,Western Pacific
+Shandong,China,36.3427,118.1498,22-01-2020,2,0,0,2,Western Pacific
+Shanghai,China,31.202,121.4491,22-01-2020,9,0,0,9,Western Pacific
+Shanxi,China,37.5777,112.2922,22-01-2020,1,0,0,1,Western Pacific
+Sichuan,China,30.6171,102.7103,22-01-2020,5,0,0,5,Western Pacific
+Tianjin,China,39.3054,117.323,22-01-2020,4,0,0,4,Western Pacific
+Tibet,China,31.6927,88.0924,22-01-2020,0,0,0,0,Western Pacific
+Xinjiang,China,41.1129,85.2401,22-01-2020,0,0,0,0,Western Pacific
+Yunnan,China,24.974,101.487,22-01-2020,1,0,0,1,Western Pacific
+Zhejiang,China,29.1832,120.0934,22-01-2020,10,0,0,10,Western Pacific
+,Colombia,4.5709,-74.2973,22-01-2020,0,0,0,0,Americas
+,Congo (Brazzaville),-0.228,15.8277,22-01-2020,0,0,0,0,Africa
+,Congo (Kinshasa),-4.0383,21.7587,22-01-2020,0,0,0,0,Africa
+,Costa Rica,9.7489,-83.7534,22-01-2020,0,0,0,0,Americas
+,Cote d'Ivoire,7.54,-5.5471,22-01-2020,0,0,0,0,Africa
+,Croatia,45.1,15.2,22-01-2020,0,0,0,0,Europe
+,Cuba,21.521757,-77.781167,22-01-2020,0,0,0,0,Americas
+,Cyprus,35.1264,33.4299,22-01-2020,0,0,0,0,Europe
+,Czechia,49.8175,15.473,22-01-2020,0,0,0,0,Europe
+Faroe Islands,Denmark,61.8926,-6.9118,22-01-2020,0,0,0,0,Europe
+Greenland,Greenland,71.7069,-42.6043,22-01-2020,0,0,0,0,Europe
+,Denmark,56.2639,9.5018,22-01-2020,0,0,0,0,Europe
+,Djibouti,11.8251,42.5903,22-01-2020,0,0,0,0,Eastern Mediterranean
+,Dominican Republic,18.7357,-70.1627,22-01-2020,0,0,0,0,Americas
+,Ecuador,-1.8312,-78.1834,22-01-2020,0,0,0,0,Americas
+,Egypt,26.820553,30.802498,22-01-2020,0,0,0,0,Eastern Mediterranean
+,El Salvador,13.7942,-88.8965,22-01-2020,0,0,0,0,Americas
+,Equatorial Guinea,1.6508,10.2679,22-01-2020,0,0,0,0,Africa
+,Eritrea,15.1794,39.7823,22-01-2020,0,0,0,0,Africa
+,Estonia,58.5953,25.0136,22-01-2020,0,0,0,0,Europe
+,Eswatini,-26.5225,31.4659,22-01-2020,0,0,0,0,Africa
+,Ethiopia,9.145,40.4897,22-01-2020,0,0,0,0,Africa
+,Fiji,-17.7134,178.065,22-01-2020,0,0,0,0,Western Pacific
+,Finland,61.92411,25.748151,22-01-2020,0,0,0,0,Europe
+French Guiana,France,3.9339,-53.1258,22-01-2020,0,0,0,0,Europe
