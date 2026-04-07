@@ -1,7 +1,7 @@
 -- Check total rows
 SELECT COUNT(*) FROM covid_country_stats;
 
--- Check for NULL values in important columns
+-- Check for NULL values in important columns 
 SELECT *
 FROM covid_country_stats
 WHERE Country_Region IS NULL
