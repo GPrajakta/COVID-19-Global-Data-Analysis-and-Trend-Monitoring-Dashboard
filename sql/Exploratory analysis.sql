@@ -98,6 +98,15 @@ FROM covid_country_stats
 GROUP BY Continent
 ORDER BY total_cases DESC;
 
+-- Cases by WHO region
+SELECT 
+    WHO_Region,
+    SUM(TotalCases) AS total_cases
+FROM covid_country_stats
+GROUP BY WHO_Region
+ORDER BY total_cases DESC;
+
+
 
 
 
